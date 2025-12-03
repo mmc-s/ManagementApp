@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppInstaller
+	Uri="https://example.com/MyApp/YourApp.appinstaller/ManagementApp.Packaging.appinstaller"
+	Version="1.0.6.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	<MainBundle
+		Name="mmcsoft.managementapp"
+		Version="1.0.6.0"
+		Publisher="CN=MMCSoft"
+		Uri="https://example.com/MyApp/YourApp.appinstaller/ManagementApp.Packaging_1.0.6.0_Test/ManagementApp.Packaging_1.0.6.0_x64.msixbundle" />
+	<UpdateSettings>
+		<OnLaunch
+			HoursBetweenUpdateChecks="0" />
+	</UpdateSettings>
+</AppInstaller>
