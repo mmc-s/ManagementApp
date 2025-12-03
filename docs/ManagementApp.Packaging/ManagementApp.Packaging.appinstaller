@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
-	Uri="https://github.com/mmc-s/ManagementApp/blob/main/docs/ManagementApp.Packaging/ManagementApp.Packaging.appinstaller"
+	Uri="https://mmc-s.github.io/ManagementApp/docs/ManagementApp.Packaging/ManagementApp.Packaging.appinstaller"
 	Version="1.0.6.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
 	<MainBundle
 		Name="mmcsoft.managementapp"
 		Version="1.0.6.0"
 		Publisher="CN=MMCSoft"
-		Uri="https://github.com/mmc-s/ManagementApp/tree/main/docs/ManagementApp.Packaging/ManagementApp.Packaging.msixbundle" />
+		Uri="https://mmc-s.github.io/ManagementApp/docs/ManagementApp.Packaging/ManagementApp.Packaging.msixbundle" />
 	<UpdateSettings>
 		<OnLaunch
 			HoursBetweenUpdateChecks="0" />
